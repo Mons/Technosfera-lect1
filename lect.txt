@@ -1,4 +1,4 @@
-        class:first-page
+        class:firstpage
 
         # Программирование на Perl
 
