@@ -1,4 +1,4 @@
-        class: center, middle
+        class: first-page
 
         # Программирование на Perl
 
@@ -1936,8 +1936,9 @@
         
         ---
 
-        .center-aligned[Спасибо за внимание!
+	class: last_page
+        Спасибо за внимание!
 
         Николай Шуляковский
         
-        Email & Agent: n.shulyakovskiy@corp.mail.ru]
+        Email & Agent: n.shulyakovskiy@corp.mail.ru
