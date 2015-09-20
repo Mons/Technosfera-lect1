@@ -720,8 +720,14 @@
         perlsyn — синтаксис языка perl.
         
         ---
+
+        layout:true
         
         # Синтаксис языка
+        
+        .footer[[perlsyn](http://perldoc.perl.org/perlsyn.html)]
+
+        ---
         
         * Программа - последовательность конструкций (statement)
         * Синтаксис близок к языку C
