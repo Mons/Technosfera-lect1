@@ -1936,7 +1936,7 @@
         
         ---
 
-	class:lastpage
+        class:lastpage
 
         Спасибо за внимание!
 
