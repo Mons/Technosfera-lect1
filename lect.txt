@@ -1176,8 +1176,8 @@
         - для GenToo: emerge dev-lang/perl
         - для FreeBSD: pkg add perl
         
-        Для любителей компилировать свё под свою систему:
-        - make perl ./Configure -des; make test instal
+        Для любителей компилировать всё под свою систему:
+        - make perl ./Configure -des; make test install
 
         ---
 
@@ -1432,7 +1432,7 @@
 
         Для таких модулей был выделен неймспейс B::
 
-        А доступ к компирятору реализован в модуле "O"
+        А доступ к компилятору реализован в модуле "O"
 
         ```bash
         perl -MO=Backend
